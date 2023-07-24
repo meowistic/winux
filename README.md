@@ -22,3 +22,9 @@ Once you have Winux installed, simply launch the exe/py file to access the Linux
 
 Please note that while Winux brings Linux-like functionality to Windows, it may have some limitations or differences from a full Linux distribution.
 Happy coding with Winux! 🚀
+
+
+## Screenshots
+
+![image](https://github.com/meowistic/winux/assets/126018790/e0e653da-47e7-4268-ae6e-30d75dee8745)
+![image](https://github.com/meowistic/winux/assets/126018790/e3124ed6-9dea-437f-adfe-c9e7869ff201)
